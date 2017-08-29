@@ -1,0 +1,24 @@
+{
+  "name": "bbpack",
+  "version": "1.0.0",
+  "description": "package.json for burger bash",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wood2jp2/BurgerBash.git"
+  },
+  "author": "JPW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wood2jp2/BurgerBash/issues"
+  },
+  "homepage": "https://github.com/wood2jp2/BurgerBash#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "handlebars": "^4.0.10"
+  }
+}
